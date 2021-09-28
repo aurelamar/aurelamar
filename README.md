@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aurelamar
 - 👀 I’m interested in data science
-- 🌱 I’m currently working on images generation in vector format at IRT Saint-Exupéry
+- 🌱 I’m currently working on the generation of images in vector format at IRT Saint-Exupéry
 - 📫 How to reach me: aurel.amar@student.isae-supaero.fr
 
 <!---
